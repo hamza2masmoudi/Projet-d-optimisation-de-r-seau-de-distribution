@@ -1,0 +1,6 @@
+pandas
+numpy
+scipy
+docplex
+matplotlib
+geopandas
